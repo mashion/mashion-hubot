@@ -15,11 +15,21 @@
   },
 
   "dependencies": {
-    "githubot": ">= 0.3.1",
+    "date-utils": "",
+    "githubot": "",
+    "gitio": "",
+    "htmlparser": "",
     "hubot": ">= 2.4.6",
     "hubot-hipchat": ">= 2.4.5",
     "hubot-scripts": ">= 2.4.1",
-    "optparse": "1.0.3"
+    "jsdom": "",
+    "moment": "",
+    "optparse": "1.0.3",
+    "soupselect": "",
+    "underscore": "",
+    "underscore.string": "",
+    "wolfram": "",
+    "xml2js": ""
   },
 
   "engines": {
