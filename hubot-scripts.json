@@ -1,5 +1,15 @@
 [
+  "clojure.coffee",
+  "github-activity.coffee",
+  "github-commiters.coffee",
+  "github-credentials.coffee",
+  "github-issue-link.coffee",
+  "github-issues.coffee",
+  "github-pulls.coffee",
+  "github-status.coffee",
   "redis-brain.coffee",
+  "ruby.coffee",
   "shipit.coffee",
+  "travis.coffee",
   "tweet.coffee"
 ]
