@@ -6,6 +6,7 @@
   "github-issues.coffee",
   "github-pulls.coffee",
   "github-status.coffee",
+  "heroku-status.coffee",
   "redis-brain.coffee",
   "ruby.coffee",
   "shipit.coffee",
