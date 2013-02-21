@@ -3,7 +3,6 @@
   "github-activity.coffee",
   "github-commiters.coffee",
   "github-credentials.coffee",
-  "github-issue-link.coffee",
   "github-issues.coffee",
   "github-pulls.coffee",
   "github-status.coffee",
