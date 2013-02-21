@@ -29,7 +29,8 @@
     "underscore": "",
     "underscore.string": "",
     "wolfram": "",
-    "xml2js": ""
+    "xml2js": "",
+    "yelp": ""
   },
 
   "engines": {
