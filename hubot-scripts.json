@@ -17,6 +17,7 @@
   "hangout.coffee",
   "heroku-status.coffee",
   "http-info.coffee",
+  "insult.coffee",
   "redis-brain.coffee",
   "ruby.coffee",
   "rubygems.coffee",
