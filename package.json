@@ -15,6 +15,7 @@
   },
 
   "dependencies": {
+    "cheerio": "",
     "date-utils": "",
     "githubot": "",
     "gitio": "",
